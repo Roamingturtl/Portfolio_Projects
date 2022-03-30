@@ -1,2 +1,2 @@
 # Portfolio_Projects
-University Final Projects
+This repository is a collection of my final course projects while attending OSU.
